@@ -1,0 +1,11 @@
+{
+  "oferta-relampago1": {
+    "component": "FirstOfertaRelampago"
+  },
+  "oferta-relampago2": {
+    "component": "SecondOfertaRelampago"
+  },
+  "oferta-relampago3": {
+    "component": "ThirdOfertaRelampago"
+  }
+}
